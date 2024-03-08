@@ -1,4 +1,4 @@
 streamlit
-google-generativeai
 pathlib
+google.generativeai
 io
